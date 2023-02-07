@@ -1,7 +1,6 @@
 import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 import { Typewriter } from 'react-simple-typewriter';
-import ArrowButton from "components/ArrowButton.jsx";
 import NavBar from "components/NavBar.jsx";
 
 import HeroSection from "components/HeroSection.jsx";
