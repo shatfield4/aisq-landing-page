@@ -7,7 +7,7 @@ const HeroSection = () => (
     <div className="container mx-auto text-center">
       <div className="h-64 w-64 mx-auto mb-8 bg-cover bg-center bg-gray-500 rounded-lg" style={{ backgroundImage: "url('https://i.pinimg.com/originals/09/88/c9/0988c91b1ea355047aba4415a39566e7.jpg')" }} />
       <h1 className="text-5xl font-bold text-center text-gray-100 mb-8">
-        Welcome to{' '}
+        Meet{' '}<br />
         <span className="font-bold text-pink-500">
           <Typewriter
             words={[
